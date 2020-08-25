@@ -1,3 +1,13 @@
+body {
+  background-color: #486d46; /* 背景色 */
+  background-image: url("img/背景1.jpg"); /* 画像 */
+  background-color: rgba(255, 255, 255, 0.7);
+  background-blend-mode: lighten;
+  background-size: cover; /* 全画面 */
+  background-attachment: fixed; /* 固定 */
+  background-position: center center; /* 縦横中央 */
+}
+
 .wf-nicomoji {
   font-family: "Nico Moji";
 }
@@ -34,7 +44,6 @@
 }
 
 .bg-newone {
-  background-image: url("img/背景2.png");
   width: 100%;
   height: 100%;
   opacity: 0.9;
@@ -66,13 +75,9 @@ a:active {
   color: green;
 }
 
-body {
-  background-color: lightskyblue;
-}
-
-.second_position {
+/*.second_position {
   background-color: mediumturquoise;
-}
+}*/
 
 .marginSetting {
   padding-top: 30px;
