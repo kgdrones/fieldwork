@@ -1,7 +1,7 @@
 body {
   background-color: #486d46; /* 背景色 */
-  background-image: url("img/背景1.jpg"); /* 画像 */
-  background-color: rgba(255, 255, 255, 0.7);
+  background-image: url("img/背景2.jpg"); /* 画像 */
+  background-color: rgba(255, 255, 255, 0.1);
   background-blend-mode: lighten;
   background-size: cover; /* 全画面 */
   background-attachment: fixed; /* 固定 */
