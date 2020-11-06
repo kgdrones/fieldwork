@@ -90,3 +90,7 @@ a:active {
 .img-right {
   margin-left: auto;
 }
+
+audio {
+  width: 250px;
+}
